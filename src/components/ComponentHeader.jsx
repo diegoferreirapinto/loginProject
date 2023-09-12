@@ -1,7 +1,4 @@
-// import '../ComponentesEstilizados'
-
 import { HeaderStyled } from "../ComponentesEstilizados";
-
 
 export function ComponentHeader() {
 
